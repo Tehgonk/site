@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="guide.com" resolutions="1x,2x" timestamp="1465695499374">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="guide.com" resolutions="1x,2x" timestamp="1465697385303">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="menu-route-options.css" crc="3958206501" ref="menu-route-options"/>
-    <file name="nomq_menu-route-options.css" crc="158194056" ref="menu-route-options"/>
+    <file name="menu-route-options.css" crc="309154006" ref="menu-route-options"/>
+    <file name="nomq_menu-route-options.css" crc="4140789249" ref="menu-route-options"/>
     <file name="index.css" crc="3921964761" ref="index"/>
     <file name="nomq_index.css" crc="226990056" ref="index"/>
     <file name="waiting.css" crc="133476119" ref="waiting"/>
@@ -40,15 +40,13 @@
     <file name="waiting menu173x333_2x.png" crc="4059533420" seo="true" ref="waiting-menu"/>
     <file name="waiting menu147x283.png" crc="3830205728" seo="true" ref="waiting-menu"/>
     <file name="waiting menu147x283_2x.png" crc="87670211" seo="true" ref="waiting-menu"/>
-    <file name="menu route options.png" crc="3972759668" seo="true" ref="menu-route-options"/>
-    <file name="menu route options_2x.png" crc="3869151227" seo="true" ref="menu-route-options"/>
-    <file name="menu route options173x333.png" crc="4286201117" seo="true" ref="menu-route-options"/>
-    <file name="menu route options173x333_2x.png" crc="4253499770" seo="true" ref="menu-route-options"/>
-    <file name="menu route options147x283.png" crc="487416907" seo="true" ref="menu-route-options"/>
-    <file name="menu route options147x283_2x.png" crc="4172412407" seo="true" ref="menu-route-options"/>
+    <file name="menu route options.png" crc="157019903" seo="true" ref="menu-route-options"/>
+    <file name="menu route options_2x.png" crc="443141291" seo="true" ref="menu-route-options"/>
+    <file name="menu route options367x705.png" crc="489988573" seo="true" ref="menu-route-options"/>
+    <file name="menu route options367x705_2x.png" crc="443141291" seo="true" ref="menu-route-options"/>
   </folder>
   <file name="index.html" crc="4050715346" seo="true" mt="1465692322400" redirect="true"/>
   <file name="waiting.html" crc="3976915944" seo="true" mt="1465695497597" redirect="true"/>
   <file name="waiting-menu.html" crc="3929021666" seo="true" mt="1465695498179" redirect="true"/>
-  <file name="menu-route-options.html" crc="4119688585" seo="true" mt="1465693669081" redirect="true"/>
+  <file name="menu-route-options.html" crc="479853623" seo="true" mt="1465697368494" redirect="true"/>
 </manifest>
