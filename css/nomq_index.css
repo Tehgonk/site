@@ -1,0 +1,35 @@
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		width: 100%;
+		max-width: 960px;
+	}
+
+	#u94
+	{
+		width: 45.84%;
+		margin-left: 27.09%;
+		left: 0px;
+	}
+
+	#u94_img
+	{
+		width: 100%;
+	}
+
+	#u214
+	{
+		width: 11.36%;
+		left: 33.13%;
+	}
+
+

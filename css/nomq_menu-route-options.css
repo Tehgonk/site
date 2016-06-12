@@ -1,0 +1,53 @@
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 438px;
+		width: 100%;
+		max-width: 960px;
+	}
+
+	#u444
+	{
+		width: 11.36%;
+		left: 33.13%;
+	}
+
+	#u442
+	{
+		width: 45.84%;
+		left: 27.09%;
+	}
+
+	#u442_img
+	{
+		width: 100%;
+	}
+
+	#u445
+	{
+		width: 6.15%;
+		left: 62.92%;
+	}
+
+	#u446
+	{
+		width: 9.38%;
+		left: 53.55%;
+	}
+
+	#u490
+	{
+		width: 3.65%;
+		left: 36.15%;
+	}
+
+

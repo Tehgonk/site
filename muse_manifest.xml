@@ -1,0 +1,54 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="guide.com" resolutions="1x,2x" timestamp="1465695499374">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="menu-route-options.css" crc="3958206501" ref="menu-route-options"/>
+    <file name="nomq_menu-route-options.css" crc="158194056" ref="menu-route-options"/>
+    <file name="index.css" crc="3921964761" ref="index"/>
+    <file name="nomq_index.css" crc="226990056" ref="index"/>
+    <file name="waiting.css" crc="133476119" ref="waiting"/>
+    <file name="nomq_waiting.css" crc="34487550" ref="waiting"/>
+    <file name="waiting-menu.css" crc="3763122468" ref="waiting-menu"/>
+    <file name="nomq_waiting-menu.css" crc="4059309699" ref="waiting-menu"/>
+  </folder>
+  <folder name="assets">
+    <file name="waiting.png" crc="4122349914" seo="true" mt="1465692104000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:waiting:waiting-menu:menu-route-options"/>
+    <file name="museutils.js" crc="3790713428" ref="index:waiting:waiting-menu:menu-route-options"/>
+    <file name="whatinput.js" crc="84559013" ref="index:waiting:waiting-menu:menu-route-options"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:waiting:waiting-menu:menu-route-options"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index:waiting:waiting-menu:menu-route-options"/>
+  </folder>
+  <folder name="images">
+    <file name="login screen.png" crc="454836327" seo="true" ref="index"/>
+    <file name="login screen_2x.png" crc="3858842383" seo="true" ref="index"/>
+    <file name="login screen218x419.png" crc="285238673" seo="true" ref="index"/>
+    <file name="login screen218x419_2x.png" crc="3885039647" seo="true" ref="index"/>
+    <file name="login screen218x418.png" crc="4124441817" seo="true" ref="index"/>
+    <file name="login screen218x418_2x.png" crc="224292829" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:waiting:waiting-menu:menu-route-options"/>
+    <file name="waiting.png" crc="225218109" seo="true" ref="waiting"/>
+    <file name="waiting_2x.png" crc="114735650" seo="true" ref="waiting"/>
+    <file name="waiting173x333.png" crc="3853886445" seo="true" ref="waiting"/>
+    <file name="waiting173x333_2x.png" crc="3912376478" seo="true" ref="waiting"/>
+    <file name="waiting147x282.png" crc="4034925243" seo="true" ref="waiting"/>
+    <file name="waiting147x282_2x.png" crc="3791642145" seo="true" ref="waiting"/>
+    <file name="waiting menu.png" crc="4155548469" seo="true" ref="waiting-menu"/>
+    <file name="waiting menu_2x.png" crc="3860812492" seo="true" ref="waiting-menu"/>
+    <file name="waiting menu173x333.png" crc="3807077756" seo="true" ref="waiting-menu"/>
+    <file name="waiting menu173x333_2x.png" crc="4059533420" seo="true" ref="waiting-menu"/>
+    <file name="waiting menu147x283.png" crc="3830205728" seo="true" ref="waiting-menu"/>
+    <file name="waiting menu147x283_2x.png" crc="87670211" seo="true" ref="waiting-menu"/>
+    <file name="menu route options.png" crc="3972759668" seo="true" ref="menu-route-options"/>
+    <file name="menu route options_2x.png" crc="3869151227" seo="true" ref="menu-route-options"/>
+    <file name="menu route options173x333.png" crc="4286201117" seo="true" ref="menu-route-options"/>
+    <file name="menu route options173x333_2x.png" crc="4253499770" seo="true" ref="menu-route-options"/>
+    <file name="menu route options147x283.png" crc="487416907" seo="true" ref="menu-route-options"/>
+    <file name="menu route options147x283_2x.png" crc="4172412407" seo="true" ref="menu-route-options"/>
+  </folder>
+  <file name="index.html" crc="4050715346" seo="true" mt="1465692322400" redirect="true"/>
+  <file name="waiting.html" crc="3976915944" seo="true" mt="1465695497597" redirect="true"/>
+  <file name="waiting-menu.html" crc="3929021666" seo="true" mt="1465695498179" redirect="true"/>
+  <file name="menu-route-options.html" crc="4119688585" seo="true" mt="1465693669081" redirect="true"/>
+</manifest>

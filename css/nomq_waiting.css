@@ -1,0 +1,42 @@
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 438px;
+		padding-bottom: 62px;
+		width: 100%;
+		max-width: 960px;
+	}
+
+	#u239
+	{
+		width: 11.36%;
+		left: 33.13%;
+	}
+
+	#u266
+	{
+		width: 45.84%;
+		left: 27.09%;
+	}
+
+	#u266_img
+	{
+		width: 100%;
+	}
+
+	#u348
+	{
+		width: 2.5%;
+		left: 32.61%;
+	}
+
+

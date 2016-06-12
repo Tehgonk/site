@@ -1,0 +1,245 @@
+.version.waiting /* version checker */
+{
+	color: #000007;
+	background-color: #F4AF17;
+}
+
+#page
+{
+	margin-right: auto;
+	z-index: 1;
+	margin-left: auto;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	background-image: none;
+}
+
+#u239
+{
+	margin-right: -10000px;
+	z-index: 2;
+	position: relative;
+	margin-top: 293px;
+	height: 34px;
+}
+
+#u266
+{
+	margin-right: -10000px;
+	z-index: 3;
+	position: relative;
+	margin-top: 20px;
+	background-color: transparent;
+}
+
+#u348
+{
+	margin-right: -10000px;
+	z-index: 5;
+	position: relative;
+	margin-top: 156px;
+	height: 16px;
+}
+
+.ie #u239,.ie #u348
+{
+	filter: alpha(opacity=1);
+	background-color: #FFFFFF;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	opacity: 0.01;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+}
+
+@media (min-width: 476px)
+{
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 438px;
+		padding-bottom: 62px;
+		width: 100%;
+		max-width: 960px;
+	}
+
+	#u239
+	{
+		width: 11.36%;
+		left: 33.13%;
+	}
+
+	#u266
+	{
+		width: 45.84%;
+		left: 27.09%;
+	}
+
+	#u266_img
+	{
+		width: 100%;
+	}
+
+	#u348
+	{
+		width: 2.5%;
+		left: 32.61%;
+	}
+
+}
+
+@media (min-width: 378px) and (max-width: 475px)
+{
+	#muse_css_mq
+	{
+		background-color: #0001db;
+	}
+
+	#bp_475.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		width: 377px;
+		min-height: 352px;
+		padding-bottom: 148px;
+	}
+
+	#u239
+	{
+		width: 43px;
+		left: 125px;
+	}
+
+	#u266
+	{
+		width: 173px;
+		left: 102px;
+	}
+
+	#u348
+	{
+		width: 9px;
+		left: 123px;
+	}
+
+	body
+	{
+		min-width: 377px;
+	}
+
+}
+
+@media (min-width: 321px) and (max-width: 377px)
+{
+	#muse_css_mq
+	{
+		background-color: #000179;
+	}
+
+	#bp_377.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		width: 320px;
+		min-height: 327px;
+		padding-bottom: 173px;
+	}
+
+	#u239
+	{
+		width: 36px;
+		left: 106px;
+	}
+
+	#u266
+	{
+		width: 147px;
+		left: 87px;
+	}
+
+	#u348
+	{
+		width: 8px;
+		left: 104px;
+	}
+
+	body
+	{
+		min-width: 320px;
+	}
+
+}
+
+@media (max-width: 320px)
+{
+	#muse_css_mq
+	{
+		background-color: #000140;
+	}
+
+	#bp_320.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 327px;
+		padding-bottom: 173px;
+		width: 100%;
+		max-width: 320px;
+	}
+
+	#u239
+	{
+		width: 11.25%;
+		left: 33.13%;
+	}
+
+	#u266
+	{
+		width: 45.94%;
+		left: 27.19%;
+	}
+
+	#u266_img
+	{
+		width: 100%;
+	}
+
+	#u348
+	{
+		width: 2.5%;
+		left: 32.5%;
+	}
+
+	body
+	{
+		min-width: 320px;
+	}
+
+}
+
